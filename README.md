@@ -56,7 +56,7 @@
 ## 📫 İletişim
 
 - 🌐 Web: [filementorstudio.net](https://filementorstudio.net)
-- 📧 E-posta: **buraya e-posta adresini yaz**
+- 📧 E-posta: **erenkaraca2005@gmail.com**
 
 > Web sitesi ya da otomasyon ihtiyacın varsa yaz, birlikte bakalım.
 
