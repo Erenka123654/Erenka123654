@@ -1,18 +1,69 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Merhaba,%20Ben%20Erenka123654%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Bilgi%20İşlem%20Teknisyeni%20%7C%20AI%20%2F%20ML%20Enthusiast&descAlignY=55&descSize=18" width="100%"/> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=4.Bilgi İşlem Teknisyeni;.NET+Core+%26+Spring+Boot+ile+%C3%A7al%C4%B1%C5%9F%C4%B1yorum;AI+%2F+ML+Alan%C4%B1na+Tutkuyla+Ba%C4%9Fl%C4%B1y%C4%B1m+%F0%9F%9A%80;Medium%27da+Bilgi+Payla%C5%9F%C4%B1yorum+%E2%9C%8D%EF%B8%8F" alt="Typing SVG" /> </a> <br> <img src="https://komarev.com/ghpvc/?username=Erenka123654&label=Profile%20Views&color=38BDF8&style=for-the-badge" /> <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-38BDF8?style=for-the-badge" /> </div> <br> 
-isim:       Eren
-rol:        Bilgi İşlem Teknisyeni
-odak:       .NET Core · Spring Boot · Yapay Zeka / Makine Öğrenmesi
-şu_an:      Yeni teknolojiler öğreniyor ve projeler geliştiriyor
-ilgi_alanı: Backend Geliştirme, AI/ML, Yazılım Mimarisi
-•	🎓 3,51 not ortalaması ile Bilgisayar Mühendisliğinden mezun oldum.
-•	💻 .NET Core ve Spring Boot ile backend geliştirme yapıyorum
-•	🤖 AI / ML alanına derin bir ilgi duyuyorum ve bu alanda kendimi geliştiriyorum
-•	🌱 Her gün yeni bir şeyler öğrenmeye devam ediyorum
-•	📫 Bana ulaşmak veya iş birliği yapmak isterseniz aşağıdaki kanallardan iletişime geçebilirsiniz
-<br> <div align="center"> <a href="mailto:ornek.kullanici@example.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://linkedin.com/in/ornek-kullanici"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://medium.com/@ornek-kullanici"> <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /> </a> <a href="https://www.hackerrank.com/ornek-kullanici"> <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /> </a> <a href="https://leetcode.com/ornek-kullanici/"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /> </a> </div> <br> <div align="center"> 
-Diller & Frameworkler
-<img src="https://skillicons.dev/icons?i=java,cs,python,dotnet,spring,html,css,js&theme=dark" /> <br> 
-Veritabanı, Araçlar & AI/ML
-<img src="https://skillicons.dev/icons?i=postgresql,docker,git,github,vscode,postman,pytorch,tensorflow&theme=dark" /> </div> <br> <div align="center"> <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ornek-kullanici&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" /> <br> <div align="center"> <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/> </div> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%"/> 
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Merhaba,%20Ben%20Eren%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20Geli%C5%9Ftirici%20%C2%B7%20Otomasyon%20%C2%B7%20Bilgi%20%C4%B0%C5%9Flem&descAlignY=55&descSize=18)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Web+Siteleri+ve+E-Ticaret+Geli%C5%9Ftiriyorum;n8n+ile+Otomasyon+ve+Bot+Yap%C4%B1yorum;Her+g%C3%BCn+yeni+bir+%C5%9Fey+%C3%B6%C4%9Freniyorum)](https://git.io/typing-svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Erenka123654&label=Profile%20Views&color=38BDF8&style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Learning%20%26%20Building-38BDF8?style=for-the-badge)
+
+</div>
+
+## 👨‍💻 Hakkımda
+
+- 🎓 3,51 not ortalaması ile Bilgisayar Mühendisliğinden mezun oldum
+- 🖥️ Bilgi işlem alanında çalışıyorum, yanında kendi projelerimi geliştiriyorum
+- 🌐 Küçük işletmeler için web siteleri, e-ticaret çözümleri ve botlar yapıyorum
+- 🌱 Her gün yeni bir şey öğrenmeye devam ediyorum
+
+## 🚀 Projelerim
+
+- 🛒 **[Filementor Studio](https://filementorstudio.net)** — 3D baskı e-ticaret sitesi (kendi işim)
+- 🚲 **Bike Alanya** — bisiklet mağazası için satış, tamir ve kiralama sitesi
+- 📱 **QR Menü** — kafe ve restoranlar için dijital menü demosu
+- 🤖 **Otomasyon ve botlar** — n8n ile iş akışları ve sinyal takip araçları
+
+## 🛠️ Kullandığım Teknolojiler
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare_Pages_/_Workers_/_D1-F38020?style=flat&logo=cloudflare&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Home Assistant](https://img.shields.io/badge/Home_Assistant-18BCF2?style=flat&logo=homeassistant&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+## 📚 Şu an öğrendiklerim
+
+- Backend ve veritabanı tasarımı
+- Test yazma ve güvenli kod pratikleri
+- Yapay zeka destekli geliştirme
+
+## 📈 GitHub İstatistiklerim
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Erenka123654&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8)](https://git.io/streak-stats)
+
+</div>
+
+## 📫 İletişim
+
+- 🌐 Web: [filementorstudio.net](https://filementorstudio.net)
+- 📧 E-posta: **buraya e-posta adresini yaz**
+
+> Web sitesi ya da otomasyon ihtiyacın varsa yaz, birlikte bakalım.
+
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer)
+
 ⭐ Profilime uğradığınız için teşekkürler! Birlikte kod yazmak dileğiyle 🚀
+
 </div>
